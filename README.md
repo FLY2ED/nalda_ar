@@ -76,10 +76,6 @@
 
 ![AR 데모 이미지](screenshot.png)
 
-실제 동작하는 모습은 아래 동영상에서 확인할 수 있습니다:
-
-[![AR 데모 영상](video_thumbnail.png)](demo.mp4)
-
 ## 사용 방법
 
 1. 필요한 라이브러리 설치:
